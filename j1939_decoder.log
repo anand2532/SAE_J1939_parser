@@ -1,0 +1,231 @@
+2024-11-25 15:52:38,213 - INFO - Starting CAN message decoding...
+2024-11-25 15:52:38,213 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,213 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,213 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,213 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,213 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,214 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,215 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,216 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,217 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,218 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,219 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,220 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,221 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,222 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,223 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,224 - INFO - Processed 1000 messages...
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,225 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 100 (Engine Oil Pressure): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,226 - WARNING - Error decoding SPN 190 (Engine Speed): 'NoneType' object is not a mapping
+2024-11-25 15:52:38,227 - INFO - Saving decoded data...
+2024-11-25 15:52:38,241 - INFO - 
+        Decoding completed:
+        - Total messages: 1188
+        - Successfully decoded: 260
+        - Unknown PGNs: 928
+        - Errors: 0
+        - Active warnings: 0
+        

@@ -1,0 +1,38 @@
+FE92
+FF03
+F001
+F004
+FF00
+FF01
+FF02
+FF03
+FEE5
+
+FF04
+
+FECA
+FEEE
+FEEF
+FEF6
+FEDF
+FEF2
+F001
+FEF7
+
+
+E800
+
+Parameter needed: 
+
+Fuel Level
+
+Engine Oil Pressure (EOP) --> FEEF (65263) Engine Fluid Level/Pressure 1
+Engine Coolant Temperature (ECT) 
+Engine Speed (RPMx100)   --> FE54 (65108)
+Hydralic Oil Temperature (HOT)
+Battery Voltage
+
+
+
+Engine Hours
+
