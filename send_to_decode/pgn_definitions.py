@@ -17,11 +17,31 @@ class PgnDefinitions:
                     168: {"name": "Battery Potential / Voltage", "start_byte": 5, "length": 2},
                     158: {"name": "Battery Current", "start_byte": 7, "length": 2},
                 }   
-            },
+                        },
             61441: {
-                "name": "Electronic Brake Controller 1 - EBC1 - not required",
+                "name": "Electronic Brake Controller 1 - EBC1",
                 "spns": {
-
+                    561: {"name": "ASR Engine Control Active", "start_bit": 1, "length": 2},
+                    562: {"name": "ASR Brake Control Active", "start_bit": 3, "length": 2},
+                    563: {"name": "Anti-Lock Braking (ABS) Active", "start_bit": 5, "length": 2},
+                    1121: {"name": "EBS Brake Switch", "start_bit": 7, "length": 2},
+                    521: {"name": "Brake Pedal Position", "start_byte": 2, "length": 1},
+                    575: {"name": "ABS Off-road Switch", "start_bit": 17, "length": 2},
+                    576: {"name": "ASR Off-road Switch", "start_bit": 19, "length": 2},
+                    577: {"name": "ASR Hill Holder Switch", "start_bit": 21, "length": 2},
+                    1238: {"name": "Traction Control Override Switch", "start_bit": 23, "length": 2},
+                    972: {"name": "Accelerator Interlock Switch", "start_bit": 25, "length": 2},
+                    971: {"name": "Engine Derate Switch", "start_bit": 27, "length": 2},
+                    970: {"name": "Auxiliary Engine Shutdown Switch", "start_bit": 29, "length": 2},
+                    969: {"name": "Remote Accelerator Enable Switch", "start_bit": 31, "length": 2},
+                    973: {"name": "Engine Retarder Selection", "start_byte": 5, "length": 1},
+                    1243: {"name": "ABS Fully Operational", "start_bit": 41, "length": 2},
+                    1439: {"name": "EBS Red Warning Signal", "start_bit": 43, "length": 2},
+                    1438: {"name": "ABS/EBS Amber Warning Signal", "start_bit": 45, "length": 2},
+                    1793: {"name": "ATC/ASR Information Signal", "start_bit": 47, "length": 2},
+                    1481: {"name": "Source Address of Controlling Device for Brake Control", "start_byte": 7, "length": 1},
+                    1836: {"name": "Trailer ABS Status", "start_bit": 61, "length": 2},
+                    1792: {"name": "Tractor-Mounted Trailer ABS Warning Signal", "start_bit": 63, "length": 2}
                 }
             },
             65266: {
