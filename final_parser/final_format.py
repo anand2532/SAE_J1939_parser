@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 from pgn_definitions import pgn_definitions
 from alert_system import AlertSystem
+from anomaly_detection import AnomalyDetectionSystem
 
 class J1939Parser:
     def __init__(self):
@@ -10,6 +11,7 @@ class J1939Parser:
         self.serial_number = 1
         self.messages = []
         self.alert_system = AlertSystem()
+        self.anomaly_system = AnomalyDetectionSystem()
 
     def decode_spn(self, data_bytes, spn_info):
         try:
@@ -66,8 +68,11 @@ class J1939Parser:
             return None
 
     def add_message_entry(self, msg_id, serial_number, timestamp, pgn_hex, pgn_name, spn_name, spn_value):
-        # Check for alerts based on SPN name
+        # Check for alerts
         alert_info = self.alert_system.check_alert(spn_name, spn_value)
+        
+        # Check for anomalies
+        anomaly_info = self.anomaly_system.check_anomaly(spn_name, spn_value)
 
         message = {
             "ID": msg_id,
@@ -79,7 +84,15 @@ class J1939Parser:
             "spn_value": spn_value,
             "alert": alert_info["alert"] if alert_info else None,
             "alert_color": alert_info["color"] if alert_info else None,
-            "has_buzzer": alert_info["has_buzzer"] if alert_info else False
+            "has_buzzer": alert_info["has_buzzer"] if alert_info else False,
+            "anomaly": {
+                "detected": anomaly_info["is_anomaly"] if anomaly_info else False,
+                "confidence": anomaly_info["confidence"] if anomaly_info else None,
+                "methods": anomaly_info["detection_methods"] if anomaly_info else [],
+                "severity": anomaly_info["severity"] if anomaly_info else None,
+                "trend": anomaly_info["trend"] if anomaly_info else None,
+                "statistics": anomaly_info["statistics"] if anomaly_info else None
+            }
         }
         self.messages.append(message)
 
